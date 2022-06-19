@@ -1,0 +1,155 @@
+/* шрифты */
+body {font-family: 'Montserrat', sans-serif; 
+}
+p{
+    padding-left: 20px;  
+}
+/* нумерация */
+li {
+    background-color: rgb(248, 248, 246); /*фон текста*/
+}
+ /*заголовки  */
+ h1{
+    padding-left: 20px;
+    font: normal;
+ }
+ h2{
+    padding-left: 320px;
+    color: #0b0366;   
+ }
+ dl{
+    padding-left: 20px;
+    padding-right: 50px;
+ }
+ dd{
+    padding-left: 30px;
+    background-color: rgb(255, 255, 255);
+ }
+h3{
+    color: #2F4F4F;
+    text-align: left;
+    margin-left: 20px;
+    box-shadow: 0px 2px rgb(186, 238, 144);
+}
+/* блоки */
+div {
+    color: rgb(13, 3, 22); background-color: rgb(241, 247, 241);  
+}
+.tops{
+    margin-left: 637px;
+    margin-bottom: 1px;
+    background-color: #c1dbdf;
+ }
+ .boton{
+     margin-left: 159px;
+     background-color: #c1dbdf;   
+ }
+ .imgt{
+     margin-left: 12px;
+ }
+ .buttontel{
+     width: 138px;
+     height: 88px;
+ }
+.blocgr{
+    display: flex;
+    flex-direction: row;
+    background-color: #FFFFFF;
+    width: 1000px;
+    margin: 0 auto;
+    border:5px #161615  double;
+}
+.menu{
+    margin-top: -15px;
+    height: 38px;
+    border:2px #0b0366;
+    border-style: none none outset none;
+    background-image: url("https://i.pinimg.com/originals/33/a9/d1/33a9d189cbb898ff295fe89b5fe4d658.jpg");  
+    background-position: center ;
+    padding-left: 478px; 
+    padding-right: 0px;
+}
+.author{
+    font-size: 12px;
+    color: rgb(15, 14, 14);
+    width: 315px;
+    height: 20px;
+    background-color: #caf84aee;
+    background-image:  url("https://img.icons8.com/material-two-tone/20/copyright.png") ;
+    background-repeat: no-repeat;
+    background-position: top left 40px;
+    border:2px #0b0366;
+    border-style: none  ;
+}
+.test{
+    font-size: 16px;
+    box-shadow: 0px 2px rgb(186, 238, 144);
+}
+.imgtel{
+    padding-top: 5px;
+}
+.tel{
+    padding-top: 30px;    
+}
+.asides{
+    margin-top: 0px;
+    background-color: #F5F5F5;
+    background-image: url("https://html5book.ru/wp-content/uploads/2015/06/background34.png");  
+    background-position: center ; 
+    text-align: center;
+    padding-top: 1px;
+}
+.bloc{
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    margin-top: 100px;   
+}
+.contact{
+    background-color: rgb(251, 253, 250);
+    color: rgb(8, 8, 8);
+    /*  отступ  */
+    margin-top: -100px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    border:2px #0b0366;
+    border-style: none none outset outset;   
+}
+.bloc-osvita{
+    background-color: rgb(251, 253, 250);
+    color: rgb(8, 8, 8);
+    /*  отступ  */
+    margin-left: 0px;
+    margin-right: 0px;
+    /*margin 100px 90px 300px 60px  */
+    /*margin 50px  */
+    /*margin 50px 100px  */
+    border:2px #0b0366;
+    border-style: none none outset outset;
+}
+.jods{
+   /* отступ внутри */
+   background-color: rgb(251, 253, 250);
+   color: rgb(8, 8, 8);
+    /*  отступ  */
+   margin-bottom: 0px;
+   margin-left: 0px;
+   margin-right: 0px;
+   padding-top: 10px; 
+   padding-bottom: 10px;
+   padding-left: 0px;
+   padding-right: 0px;
+   border:2px #0b0366; 
+   border-style: none none outset outset;
+ /*padding: 50px; */
+}
+.prof {
+    background-color: rgb(251, 253, 250);
+    color: rgb(8, 8, 8);
+    margin-left: 0px;
+    margin-right: 0px;
+    border:2px #0b0366;
+    border-style: none none none outset;  
+}
+
