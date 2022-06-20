@@ -1,5 +1,7 @@
 /* шрифты */
-body {font-family: 'Montserrat', sans-serif; 
+body {font-family: 'Montserrat', sans-serif;
+    max-width: 2000px; 
+    max-height: 1660px;
 }
 p{
     padding-left: 20px;  
