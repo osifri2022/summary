@@ -56,6 +56,7 @@ div {
     flex-direction: row;
     background-color: #FFFFFF;
     width: 1000px;
+    height: 1660px;
     margin: 0 auto;
     border:5px #161615  double;
 }
